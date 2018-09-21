@@ -22,9 +22,12 @@ Comic Swap is built with MongoDB, Express, React, and NodeJS.
  - https://www.comic-swap.herokuapp.com
  - https://github.com/loud-speaker
  
- # <h2> :: [Sarah Rehmer](https://www.linkedin.com/in/sarahrehmer/), [Easton Gorishek](https://www.linkedin.com/in/easton-gorishek/), [Antreo Pukay](https://www.linkedin.com/in/antreo-pukay/) & [Robyn Navarro](https://www.linkedin.com/in/robynanavarro/)
+ # <h2> ReHome :: [Sarah Rehmer](https://www.linkedin.com/in/sarahrehmer/), [Easton Gorishek](https://www.linkedin.com/in/easton-gorishek/), [Antreo Pukay](https://www.linkedin.com/in/antreo-pukay/) & [Robyn Navarro](https://www.linkedin.com/in/robynanavarro/)
+  
+  We devloped this app for users who want pets and those looking to find good homes for their pets.
   
 - https://secure-chamber-20289.herokuapp.com/auth/signin
+- https://github.com/Team-Cookie
   
  # <h2> Snakes & Squirrels :: [Arthur Jen](https://www.linkedin.com/in/arthurjen/), [Carmen Ramos](https://www.linkedin.com/in/carmenvramos/) & [Bobby Thompson](https://www.linkedin.com/in/rbtprograms/)
 Snakes & Squirrels is a quick bluffing game where players try to find more squirrels than their opponents, while avoiding those sneaky snakes. It's easy to learn, but tons of potential for mind games and deception. Snakes & Squirrels was built using Google's Firebase for the realtime database, React and Redux for the front end, and Express and MongoDB for the back end.
