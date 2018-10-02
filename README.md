@@ -4,7 +4,7 @@ Welcome to Alchemy Code Lab!
 
 Our students have just finished more than 800 hours of tech career training learning how to harness the FullStack JavaScript capabilities using React and Redux on the Front End with ExpressJS and MongoDB on the Back End (plus a dose of Firebase for realtime communication).
 
-Our emphaisis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portand's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
+Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portand's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
 
 # <h2> Below is an overview of the apps our grads are presenting, presentors, and their LinkedIn profiles.
   
