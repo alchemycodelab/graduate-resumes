@@ -6,7 +6,7 @@ Our students have just finished more than 800 hours of tech career training lear
 
 Our emphasis on process, regular testing and immersive lab sessions allow our grads to understand how their coding works and why it does what it does. As the only engineering education in town that serves Portland and Portland only, combined with in-person training by experienced senior software developers, our grads are real contributors. We stay on top of the most used technologies and aim for our grads to evolve Portand's economy and community through the companies they go to work for. [Here is an overview](https://docs.google.com/document/d/1RVKZ4wzOLJn5OeIE-94riRoJGLpwLRG1SuBdGY7sedg/edit?usp=sharing) of their syllabus through our Career Track training.  
 
-# <h2> Below is an overview of the apps our grads are presenting, presentors, and their LinkedIn profiles.
+# <h2> Below is an overview of the apps our grads are presenting, presenters, and their LinkedIn profiles.
   
 # <h2> City Secrets :: [Mark Myers](https://www.linkedin.com/in/markalope/), [Injoong Yoon](https://www.linkedin.com/in/injoong/) & [Mario Quintana](https://www.linkedin.com/in/mario-quintana/)
 CitySecrets is a photo-driven app to discover and share curated walks in cities around the world. Discover the secrets hidden in your city, or discover the sights only the locals know when you're on the road. Mobile first design makes the app easy to use on your phone.
